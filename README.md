@@ -1,4 +1,4 @@
-# Hello, I'm Arshad Mahmood Patel 👋
+# Hello, I'm Arshad Mahemood Patel 👋
 
 A passionate and driven Computer Science and Engineering student on a journey to explore the ever-evolving world of technology.
 
