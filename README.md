@@ -6,3 +6,4 @@
 - ⚡️ Let's collaborate and create something awesome together!
 - 🎯 Join me on this journey of transforming ideas into reality!
 - 🚀 Let's code for a better tomorrow!
+[![An image of @arshadpatel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadpatel)](https://holopin.io/@arshadpatel)
