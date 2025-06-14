@@ -1,5 +1,3 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5d2a63f-f6cc-4d37-8b6c-f4e78b34e496" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 # 💫 About Me:
 🔭 I’m currently working on Real-world projects and open-source contributions.<br>🧑‍🤝‍🧑 I’m looking to collaborate on Web development, open-source, and DSA projects.<br>🤝 I’m looking for help with Advanced problem-solving and building impactful projects.<br>🌱 I’m currently learning Generative AI with Amazon Bedrock and AWS cloud technologies.<br>💬 Ask me about Java, Python, web dev, DSA, and coding competitions.<br>⚡ Fun fact Teaching DSA gives me new perspectives on problem-solving!
 
