@@ -1,11 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Developer and actively involved in real-world projects and open-source contributions.<br>
-🧠 Exploring the intersection of software development and Generative AI to build smarter applications.<br>
-🤝 Open to collaboration on backend systems, AI-powered tools, and scalable microservices.<br>
-📈 Passionate about solving complex problems, system design, and writing clean, maintainable code.<br>
-🌱 Currently diving deeper into Generative AI, prompt engineering, and production-grade Spring Boot applications.<br>
-💬 Ask me about Java, Python, web dev, DSA, and anything tech-related — I enjoy tech discussions and mentoring.<br>
-⚡ Fun fact: Teaching DSA helps me improve my problem-solving mindset and unlock new perspectives!
+🎓 B.Tech in Computer Science and Engineering  
+🔭 Currently working as a Software Developer, learning through real-world backend tasks and responsibilities.  
+🧠 Exploring the world of Generative AI and how developers can use these tools to work more efficiently.  
+🤝 Open to connecting with developers and learning from the tech community.  
+📈 Passionate about clean code, core Java concepts, and continuous improvement.  
+🌱 Currently deepening my understanding of Spring Boot and Generative AI.  
+💬 Ask me about Java, Python, DSA, or anything tech-related — I enjoy knowledge-sharing and collaborative growth.  
+⚡ Fun fact: Teaching DSA helps me stay sharp and unlock better ways to approach problems!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshadpatel04) 
